@@ -19,4 +19,4 @@ $ npm run start:dev
 
 
 ## Reach Me on Linkedin
-<a href="https://www.linkedin.com/in/talison-brendon/" target="_blank" src="https://img.freepik.com/icones-gratis/linkedin_318-187585.jpg">Talison Brendon</a>
+<a href="https://www.linkedin.com/in/talison-brendon/" target="_blank"><img src="https://img.freepik.com/icones-gratis/linkedin_318-187585.jpg" alt="Linkedin Icon" />Talison Brendon</a>
